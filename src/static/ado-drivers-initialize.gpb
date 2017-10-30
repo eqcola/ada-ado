@@ -34,4 +34,5 @@ begin
 #if HAVE_SQLITE
    ADO.Drivers.Connections.Sqlite.Initialize;
 #end if;
+null;
 end Initialize;
